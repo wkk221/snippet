@@ -1,0 +1,19 @@
+{
+  "name": "snippet",
+  "version": "1.0.0",
+  "description": "管理一些复用的代码片段",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wkk221/snippet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wkk221/snippet/issues"
+  },
+  "homepage": "https://github.com/wkk221/snippet#readme"
+}
